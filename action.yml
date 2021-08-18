@@ -1,0 +1,6 @@
+name: 'Delete Pre-Releases'
+description: 'Deletes all prereleases from your repository'
+author: 'Garulf'
+runs:
+  using: 'node12'
+  main: 'index.js'
